@@ -25,6 +25,7 @@
 <script src="assets/plugins/simplelightbox/simple-lightbox.min.js"></script>
 <script src="assets/plugins/gumshoe/gumshoe.polyfills.min.js"></script>
 <script src="assets/js/docs.js"></script>
+<script src="assets/js/search.js"></script>
 
 </body>
 </html>

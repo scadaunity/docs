@@ -32,7 +32,7 @@
 </head>
 
 <body class="docs-page">
-    <header class="header fixed-top pr-2">
+    <header class="header fixed-top pr-2 d-print-none">
         <div class="branding docs-branding">
             <div class=" position-relative py-2">
                 <div class="docs-logo-wrapper">
@@ -45,7 +45,7 @@
                 </div><!--//docs-logo-wrapper-->
 	            <div class="docs-top-utilities d-flex justify-content-end align-items-center mr-2">
 	                <div class="top-search-box d-none d-lg-flex">
-		                <form class="search-form">
+		                <form class="search-form" method="post" action="search.php">
 				              <input type="text" placeholder="Pesquisar..." name="search" class="form-control search-input">
 				              <button type="submit" class="btn search-btn" value="Search"><i class="fas fa-search"></i></button>
 				            </form>
