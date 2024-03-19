@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="ScadaUnity - PHP - Framework">
     <meta name="author" content="ScadaUnity">
-    <link rel="shortcut icon" href="Logo.png">
+    <link rel="shortcut icon" href="assets/Logo.png">
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap" rel="stylesheet">
@@ -41,7 +41,7 @@
 	                  <span></span>
 	                  <span></span>
 	                </button>
-	                <div class="site-logo"><a class="navbar-brand" href="index.html"><img class="logo-icon me-2" src="Logo.png" alt="logo"><span class="logo-text">Scada <span class="text-alt">Unity</span></span></a></div>
+	                <div class="site-logo"><a class="navbar-brand" href="index.html"><img class="logo-icon me-2" src="assets/Logo.png" alt="logo"><span class="logo-text">Scada <span class="text-alt">Unity</span></span></a></div>
                 </div><!--//docs-logo-wrapper-->
 	            <div class="docs-top-utilities d-flex justify-content-end align-items-center mr-2">
 	                <div class="top-search-box d-none d-lg-flex">
